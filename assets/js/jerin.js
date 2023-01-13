@@ -145,3 +145,10 @@ function printResume(){
       '_blank'
       )
 }
+
+function hireMe(){
+  window.open(
+    "https://www.freelancer.in/u/BSJerin", 
+    '_blank'
+    )
+}
