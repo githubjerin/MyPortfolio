@@ -134,3 +134,14 @@ function initMap() {
       ]
     });
 }
+
+function tentative(){
+  window.alert("Shall be updated soon!!")
+}
+
+function printResume(){
+  window.open(
+      "https://drive.google.com/file/d/1Ye2cu0FzRp-3sCh6PzOtdLx2AjBRLX8g/view?usp=sharing", 
+      '_blank'
+      )
+}
