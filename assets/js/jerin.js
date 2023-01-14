@@ -135,20 +135,27 @@ function initMap() {
     });
 }
 
-function tentative(){
+function tentative() {
   window.alert("Shall be updated soon!!")
 }
 
-function printResume(){
+function printResume() {
   window.open(
       "https://drive.google.com/file/d/1Ye2cu0FzRp-3sCh6PzOtdLx2AjBRLX8g/view?usp=sharing", 
       '_blank'
       )
 }
 
-function hireMe(){
+function hireMe() {
   window.open(
     "https://www.freelancer.in/u/BSJerin", 
+    '_blank'
+    )
+}
+
+function printCV() {
+  window.open(
+    "https://drive.google.com/file/d/14Y2jehpCH_GRSwMMEihe1YwZPqrAA-Nl/view?usp=share_link", 
     '_blank'
     )
 }
