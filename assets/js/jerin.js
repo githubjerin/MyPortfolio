@@ -141,7 +141,7 @@ function tentative() {
 
 function printResume() {
   window.open(
-      "https://drive.google.com/file/d/1-STfqEsROu-UhM_4suldpFIgOuXPvwaJ/view?usp=drive_link", 
+      "https://drive.google.com/file/d/1-STfqEsROu-UhM_4suldpFIgOuXPvwaJ/view", 
       '_blank'
       )
 }
